@@ -77,7 +77,7 @@ export default function PhotoUploadSection() {
   const t = useTranslation()
   const { language } = useLanguage()
   
-  const driveLink = "https://drive.google.com/drive/folders/1qE-eUldG40-JJk-VudUTrTnaCb7C-LU7"
+  const driveLink = "https://drive.google.com/drive/folders/1BKl_ep0MjG2nUeSilRBXBJnT5gxwbK6Q"
 
   const handleUploadClick = () => {
     window.open(driveLink, "_blank")
