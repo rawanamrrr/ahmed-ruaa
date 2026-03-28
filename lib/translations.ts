@@ -91,8 +91,8 @@ export const translations: Translations = {
     ar: '٣٠ مارس ٢٠٢٦',
   },
   time: {
-    en: '8:00 PM',
-    ar: '٨:٠٠ مساءً',
+    en: '5:00 PM',
+    ar: '٥:٠٠ مساءً',
   },
   location: {
     en: 'Sea Garden, Ain Alhayat Resort',
